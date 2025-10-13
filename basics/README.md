@@ -1,1 +1,0 @@
-# Holberton Basic Shell
