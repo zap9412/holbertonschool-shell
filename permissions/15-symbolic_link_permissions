@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -h $(whoami):$(id -gn) _hello
