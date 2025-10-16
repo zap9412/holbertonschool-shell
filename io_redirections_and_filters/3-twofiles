@@ -1,0 +1,4 @@
+#!/bin/bash
+if cat /etc/passwd; then
+    cat /etc/hosts
+fi
