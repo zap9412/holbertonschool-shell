@@ -1,2 +1,2 @@
 #!/bin/bash
-if cat /etc/passwd then cat /etc/hosts fi
+cat /etc/passwd /etc/hosts
