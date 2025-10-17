@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p
+set | grep -v BASH_EXECUTION_STRING | grep -v BASH_ARGVp
